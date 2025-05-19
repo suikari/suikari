@@ -1,4 +1,4 @@
-![자기소개](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Daehan%20Bang&reversal=false&textBg=false)
+![자기소개](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=DaeHan%20Bang&reversal=false&textBg=false)
 # 👨‍💻 About Me
 
 **백엔드를 중심으로 다양한 기술 스택을 익히고 있는 개발자입니다.**  
