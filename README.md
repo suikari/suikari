@@ -40,6 +40,10 @@ JavaScript와 Vue.js 등을 활용하여 자기소개 페이지 구현을 연습
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+![Suikari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suikari&show_icons=true&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suikari&layout=compact)
+
+
+---
 
 
 ## 🏢 Career
