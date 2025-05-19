@@ -76,3 +76,5 @@ JavaScript와 Vue.js 등을 활용하여 자기소개 페이지 구현을 연습
 > 실무 경험을 통한 더 나은 개발자를 목표로 노력하고 있습니다.
 
 ---
+
+![자기소개](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&textBg=false&section=footer)
